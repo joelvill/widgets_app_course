@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class ButttonsScreen extends StatelessWidget {
+  static const name = "butttons_screen";
+
   const ButttonsScreen({super.key});
 
   @override
