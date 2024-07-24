@@ -2,8 +2,10 @@ export 'package:widgets_app_course/presentation/screens/animated/animated_screen
 export 'package:widgets_app_course/presentation/screens/app_tutorial/app_tutorial_screen.dart';
 export 'package:widgets_app_course/presentation/screens/buttons/buttons_screen.dart';
 export 'package:widgets_app_course/presentation/screens/cards/cards_screen.dart';
+export 'package:widgets_app_course/presentation/screens/counter/counter_screen.dart';
 export 'package:widgets_app_course/presentation/screens/home/home_screen.dart';
 export 'package:widgets_app_course/presentation/screens/infinite_scroll/infinite_scroll_screen.dart';
 export 'package:widgets_app_course/presentation/screens/progress/progress_screen.dart';
 export 'package:widgets_app_course/presentation/screens/snackbar/snackbar_screen.dart';
+export 'package:widgets_app_course/presentation/screens/theme_changer/theme_changer_screen.dart';
 export 'package:widgets_app_course/presentation/screens/ui_controls/ui_controls_screen.dart';
